@@ -1,2 +1,3 @@
 # TicTacToe
- TicTacToe using Java
+ TicTacToe console application using Java
+Can be run through the command prompt
